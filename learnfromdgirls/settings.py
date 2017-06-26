@@ -25,7 +25,7 @@ SECRET_KEY = '(24-19cv(%ng#s^%ey^x9$=z(fum(b39ygt-g9p%_mnq@_d@eg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'dante.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'dantepilla.pythonanywhere.com']
 
 
 # Application definition
